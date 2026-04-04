@@ -65,3 +65,4 @@ char* addBinary(char* a, char* b) {
 
 ahfkjh fkjahf kahfk
 5434  ahfjgfa k
+afda fja kfhas flagjf
