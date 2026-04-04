@@ -60,11 +60,3 @@ char* addBinary(char* a, char* b) {
     }
     return &sum[k + 1];
 }
-
-
-
-ahfkjh fkjahf kahfk
-5434  ahfjgfa k
-afda fja kfhas flagjf
-af ashfkjahfkajh
-afad fkahfkdj kdah
